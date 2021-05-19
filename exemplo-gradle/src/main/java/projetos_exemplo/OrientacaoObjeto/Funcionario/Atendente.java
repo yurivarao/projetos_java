@@ -1,4 +1,4 @@
-package projetos_exemplo.Funcionario;
+package projetos_exemplo.OrientacaoObjeto.Funcionario;
 
 public class Atendente extends Funcionario {
 

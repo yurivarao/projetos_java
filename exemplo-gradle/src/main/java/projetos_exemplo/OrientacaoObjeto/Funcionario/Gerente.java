@@ -1,4 +1,6 @@
-package projetos_exemplo.Funcionario;
+package projetos_exemplo.OrientacaoObjeto.Funcionario;
+
+import projetos_exemplo.OrientacaoObjeto.Funcionario.Funcionario;
 
 public class Gerente extends Funcionario {
 

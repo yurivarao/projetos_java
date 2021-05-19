@@ -1,4 +1,7 @@
-package projetos_exemplo.Funcionario;
+package projetos_exemplo.OrientacaoObjeto.Funcionario;
+
+import projetos_exemplo.OrientacaoObjeto.Funcionario.Gerente;
+import projetos_exemplo.OrientacaoObjeto.Funcionario.Supervisor;
 
 public class main_class {
     public static void main(String[] args) {
